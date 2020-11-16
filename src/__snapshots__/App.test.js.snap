@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`To Do Testing renders snap shot correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="App-header"
+  >
+    <div>
+      <h1
+        className="has-text-black is-size-1"
+      >
+        To Do Test
+      </h1>
+      <div
+        className="input-container"
+      >
+        <input
+          className="input"
+          onChange={[Function]}
+          placeholder="Feed the 🐱"
+          type="text"
+          value=""
+        />
+        <button
+          className="button is-link"
+          id="submit"
+          onClick={[Function]}
+        >
+           Submit
+        </button>
+      </div>
+      <nav
+        className="panel"
+      >
+        <p
+          className="panel-heading"
+        >
+          Keeping in Track
+        </p>
+        <div
+          className="checklist"
+        />
+      </nav>
+    </div>
+  </div>
+</div>
+`;
