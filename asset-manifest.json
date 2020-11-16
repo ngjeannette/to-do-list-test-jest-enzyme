@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-do-list-test-jest-enzyme/static/css/main.24dbfd78.chunk.css",
+    "main.js": "/to-do-list-test-jest-enzyme/static/js/main.fb4ec864.chunk.js",
+    "main.js.map": "/to-do-list-test-jest-enzyme/static/js/main.fb4ec864.chunk.js.map",
+    "runtime-main.js": "/to-do-list-test-jest-enzyme/static/js/runtime-main.9dd049a6.js",
+    "runtime-main.js.map": "/to-do-list-test-jest-enzyme/static/js/runtime-main.9dd049a6.js.map",
+    "static/js/2.92a1215c.chunk.js": "/to-do-list-test-jest-enzyme/static/js/2.92a1215c.chunk.js",
+    "static/js/2.92a1215c.chunk.js.map": "/to-do-list-test-jest-enzyme/static/js/2.92a1215c.chunk.js.map",
+    "static/js/3.ca7c220d.chunk.js": "/to-do-list-test-jest-enzyme/static/js/3.ca7c220d.chunk.js",
+    "static/js/3.ca7c220d.chunk.js.map": "/to-do-list-test-jest-enzyme/static/js/3.ca7c220d.chunk.js.map",
+    "index.html": "/to-do-list-test-jest-enzyme/index.html",
+    "static/css/main.24dbfd78.chunk.css.map": "/to-do-list-test-jest-enzyme/static/css/main.24dbfd78.chunk.css.map",
+    "static/js/2.92a1215c.chunk.js.LICENSE.txt": "/to-do-list-test-jest-enzyme/static/js/2.92a1215c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dd049a6.js",
+    "static/js/2.92a1215c.chunk.js",
+    "static/css/main.24dbfd78.chunk.css",
+    "static/js/main.fb4ec864.chunk.js"
+  ]
+}
